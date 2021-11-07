@@ -29,14 +29,12 @@
 
 		#hinnasto { 
 			color: black;
-				background-color: LavenderBlush;
 				font-size: 12px;
 				font-family: ”sans-serif;
 				border: 2px solid black; 
-				padding-left: 5px;
-				padding-bottom: 10px;
-				padding-right: 5px;
-				padding-top: 10px;
+				width: 250px;
+				background-color: LavenderBlush;
+				padding: 5px 10px 5px 10px;
 		}
 
 	</style>
