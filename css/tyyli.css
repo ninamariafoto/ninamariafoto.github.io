@@ -1,41 +1,52 @@
-<style>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=”utf-8”>
+		<title>stylesheet</title>
+		<style>
 	
-		body { 
-			background-color: linen:
-			color: Black;
-			font-size: 12px;
-			font-family: sans-serif;
-		}
+			body { 
+				background-color: linen:
+				color: Black;
+				font-size: 12px;
+				font-family: sans-serif;
+			}
 
-		h1 { 
-			color: LightSlateGrey;
-			font-size: 3em;
-			font-family: ”Helvetica”, sans-serif;
-			font-weight: bold;
-		}
+			h1 { 
+				color: LightSlateGrey;
+				font-size: 3em;
+				font-family: ”Helvetica”, sans-serif;
+				font-weight: bold;
+			}
 
-		h2 { 
-			color: black;
-			font-size: 2em;
-			font-family: ”Helvetica”, sans-serif;
-		}
+			h2 { 
+				color: black;
+				font-size: 2em;
+				font-family: ”Helvetica”, sans-serif;
+			}
 
-		.teksti_class { 
-			background-color: ivory:
-			color: DarkGrey;
-			font-size: 12px;
-			font-family: sans-serif;
-		}
+			h3 { 
+				color: black;
+				font-size: 2em;
+				font-family: ”Helvetica”, sans-serif;
+			}
 
-		#hinnasto { 
-			color: black;
+			.teksti_class { 
+				background-color: ivory:
+				color: DarkGrey;
+				font-size: 12px;
+				font-family: sans-serif;
+			}
+
+			#hinnasto { 
+				color: black;
 				font-size: 12px;
 				font-family: ”sans-serif;
-				text-align:center;
+				text-align: center;
 				border: 2px solid black; 
 				width: 250px;
 				background-color: LavenderBlush;
-				padding: 5px 10px 5px 10px;
-		}
+				padding: 5px;
+			}
 
-	</style>
+		</style>
