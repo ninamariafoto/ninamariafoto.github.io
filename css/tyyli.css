@@ -1,52 +1,42 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset=”utf-8”>
-		<title>stylesheet</title>
-		<style>
-	
-			body { 
-				background-color: linen:
-				color: Black;
-				font-size: 12px;
-				font-family: sans-serif;
-			}
+body { 
+			background-color: black:
+			font-size: 12px;
+		}
 
-			h1 { 
-				color: LightSlateGrey;
-				font-size: 3em;
-				font-family: ”Helvetica”, sans-serif;
-				font-weight: bold;
-			}
+		h1 { 
+			color: rgb();
+			font-size: 3em;
+			font-family: ”Helvetica”, sans-serif;
+			font-weight: bold;
+		}
 
-			h2 { 
-				color: black;
-				font-size: 2em;
-				font-family: ”Helvetica”, sans-serif;
-			}
+		h2 { 
+			color: white;
+			font-size: 2em;
+			font-family: ”Helvetica”, sans-serif;
+		}
 
-			h3 { 
-				color: black;
-				font-size: 2em;
-				font-family: ”Helvetica”, sans-serif;
-			}
+		.A { 
+			color: white;
+			font-size: 12px;
+			font-family: sans-serif;
+		}
 
-			.teksti_class { 
-				background-color: ivory:
-				color: DarkGrey;
-				font-size: 12px;
-				font-family: sans-serif;
-			}
+		.B { 
+			color: white;
+			font-size: 12px;
+			font-family: sans-serif;
+		}
 
-			#hinnasto { 
-				color: black;
-				font-size: 12px;
-				font-family: ”sans-serif;
-				text-align: center;
-				border: 2px solid black; 
-				width: 250px;
-				background-color: LavenderBlush;
-				padding: 5px;
-			}
+		p { 
+			color: white;
+			font-size: 12px;
+			font-family: sans-serif;
+		}
 
-		</style>
+		.teksti_class { 
+			background-color:white; 
+			color white: 
+			font-size: 12px;}
+			font-family: sans-serif;
+			font-style: italic;
