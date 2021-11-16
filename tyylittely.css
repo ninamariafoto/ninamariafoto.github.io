@@ -1,42 +1,4 @@
 body { 
 			background-color: black;
-			font-size: 12px;
-		}
-
-		h1 { 
-			color: rgb();
-			font-size: 3em;
-			font-family: ”Helvetica”, sans-serif;
-			font-weight: bold;
-		}
-
-		h2 { 
 			color: white;
-			font-size: 2em;
-			font-family: ”Helvetica”, sans-serif;
 		}
-
-		.A { 
-			color: white;
-			font-size: 12px;
-			font-family: sans-serif;
-		}
-
-		.B { 
-			color: white;
-			font-size: 12px;
-			font-family: sans-serif;
-		}
-
-		p { 
-			color: white;
-			font-size: 12px;
-			font-family: sans-serif;
-		}
-
-		.teksti_class { 
-			background-color:white; 
-			color white: 
-			font-size: 12px;}
-			font-family: sans-serif;
-			font-style: italic;
